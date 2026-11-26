@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<defs>
+ <radialGradient id="bg" cx="50%" cy="42%" r="70%"><stop offset="0" stop-color="#2e1b46"/><stop offset=".55" stop-color="#141a3d"/><stop offset="1" stop-color="#080c22"/></radialGradient>
+ <radialGradient id="glow"><stop offset="0" stop-color="#e9c97f" stop-opacity=".55"/><stop offset="1" stop-color="#e9c97f" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="512" height="512" rx="112" fill="url(#bg)"/>
+<circle cx="92" cy="88" r="2.4" fill="#f4eddc" opacity=".7"/><circle cx="420" cy="120" r="1.8" fill="#f4eddc" opacity=".7"/><circle cx="440" cy="400" r="2.2" fill="#f4eddc" opacity=".7"/><circle cx="70" cy="380" r="1.6" fill="#f4eddc" opacity=".7"/><circle cx="300" cy="470" r="1.4" fill="#f4eddc" opacity=".7"/><circle cx="150" cy="455" r="1.2" fill="#f4eddc" opacity=".7"/><circle cx="470" cy="260" r="1.3" fill="#f4eddc" opacity=".7"/>
+<circle cx="256" cy="256" r="120.0" fill="url(#glow)"/>
+<g fill="none" stroke="#d9b86f" stroke-linejoin="round">
+ <circle cx="256" cy="256" r="200.0" stroke-width="6.0" opacity=".85"/>
+ <circle cx="256" cy="256" r="184.0" stroke-width="3.0" stroke-dasharray="4.0 12.0" opacity=".7"/>
+ <path d="M256.00 86.00L421.74 293.83L182.24 409.16L123.09 150.01L388.91 150.01L329.76 409.16L90.26 293.83L256.00 86.00Z" stroke-width="4.0" opacity=".55"/>
+ <path d="M256.00 86.00L329.76 409.16L123.09 150.01L421.74 293.83L90.26 293.83L388.91 150.01L182.24 409.16L256.00 86.00Z" stroke-width="9.0"/>
+ <ellipse cx="256" cy="256" rx="200.0" ry="58.0" transform="rotate(-24 256 256)" stroke="#c3b5e6" stroke-width="4.0" opacity=".7"/>
+</g>
+<circle cx="256.0" cy="86.0" r="7.0" fill="#f1dca6"/><circle cx="388.9" cy="150.0" r="7.0" fill="#f1dca6"/><circle cx="421.7" cy="293.8" r="7.0" fill="#f1dca6"/><circle cx="329.8" cy="409.2" r="7.0" fill="#f1dca6"/><circle cx="182.2" cy="409.2" r="7.0" fill="#f1dca6"/><circle cx="90.3" cy="293.8" r="7.0" fill="#f1dca6"/><circle cx="123.1" cy="150.0" r="7.0" fill="#f1dca6"/>
+<circle cx="256" cy="256" r="30.0" fill="#f1dca6"/>
+<circle cx="256" cy="256" r="48.0" fill="none" stroke="#f1dca6" stroke-width="3.0" opacity=".6"/>
+</svg>
